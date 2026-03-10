@@ -1,0 +1,20 @@
+- [首页](/README.md)
+- LLM
+  - [概览](/llm/index.md)
+  - [学习路线](/llm/llm-reading-plan.md)
+- NLP
+  - [概览](/nlp/index.md)
+  - [Transformer 笔记](/nlp/transformers-notes.md)
+- 日记
+  - [概览](/diary/index.md)
+  - [2026-03-10](/diary/2026-03-10.md)
+- 杂记
+  - [概览](/notes/index.md)
+  - [笔记模板](/notes/templates.md)
+- 旧笔记
+  - [概览](/oldnotes/index.md)
+  - [Markdown 学习笔记](/oldnotes/Markdown_study.md)
+  - [Calendar Todo](/oldnotes/Calendar_Todo.md)
+  - [定校](/oldnotes/定校.md)
+  - [套磁 NOTE](/oldnotes/套磁NOTE.md)
+- [标签](/tags/index.md)
