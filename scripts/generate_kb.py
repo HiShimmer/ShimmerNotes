@@ -10,7 +10,7 @@ DOCS = ROOT / "docs"
 TAGS_DIR = DOCS / "tags"
 
 EXCLUDE_DIRS = {"tags"}
-EXCLUDE_FILES = {"_sidebar.md", "_navbar.md"}
+EXCLUDE_FILES = {"_sidebar.md", "_navbar.md", "_coverpage.md"}
 
 BACKLINKS_START = "<!-- backlinks:start -->"
 BACKLINKS_END = "<!-- backlinks:end -->"

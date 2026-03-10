@@ -1,12 +1,10 @@
 # NLP
 
-这里记录传统 NLP 与深度学习 NLP 的基础概念与模型笔记。
+本页已迁移到：
+- [学习 / CS / 人工智能 / NLP](/Study_forever/CS/人工智能/nlp/index.md)
 
-- [Transformer 笔记](transformers-notes.md)
-
-Tags: nlp
 <!-- backlinks:start -->
 ## Backlinks
-- [A Notes](../README.md)
-- [Transformer 笔记](transformers-notes.md)
+- [NLP](../Study_forever/CS/人工智能/nlp/index.md)
+- [介绍](../README.md)
 <!-- backlinks:end -->

@@ -2,5 +2,5 @@
 
 - [返回标签索引](index.md)
 
-- [NLP](../nlp/index.md)
-- [Transformer 笔记](../nlp/transformers-notes.md)
+- [NLP](../Study_forever/CS/人工智能/nlp/index.md)
+- [Transformer 笔记](../Study_forever/CS/人工智能/nlp/transformers-notes.md)

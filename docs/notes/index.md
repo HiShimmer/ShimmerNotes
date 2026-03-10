@@ -7,6 +7,6 @@
 Tags: notes
 <!-- backlinks:start -->
 ## Backlinks
-- [A Notes](../README.md)
+- [介绍](../README.md)
 - [笔记模板](templates.md)
 <!-- backlinks:end -->

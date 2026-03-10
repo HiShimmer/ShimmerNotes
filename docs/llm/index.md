@@ -1,12 +1,10 @@
 # LLM
 
-这里收录 LLM 学习路线、模型结构与实践笔记。
+本页已迁移到：
+- [学习 / CS / 人工智能 / LLM](/Study_forever/CS/人工智能/llm/index.md)
 
-- [LLM 学习路线](llm-reading-plan.md)
-
-Tags: llm
 <!-- backlinks:start -->
 ## Backlinks
-- [A Notes](../README.md)
-- [LLM 学习路线](llm-reading-plan.md)
+- [LLM](../Study_forever/CS/人工智能/llm/index.md)
+- [介绍](../README.md)
 <!-- backlinks:end -->

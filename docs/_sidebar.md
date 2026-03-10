@@ -1,10 +1,16 @@
 - [首页](/README.md)
-- LLM
-  - [概览](/llm/index.md)
-  - [学习路线](/llm/llm-reading-plan.md)
-- NLP
-  - [概览](/nlp/index.md)
-  - [Transformer 笔记](/nlp/transformers-notes.md)
+- [学习](/Study_forever/index.md)
+  - [CS](/Study_forever/CS/index.md)
+    - [人工智能](/Study_forever/CS/人工智能/index.md)
+      - LLM
+        - [概览](/Study_forever/CS/人工智能/llm/index.md)
+        - [学习路线](/Study_forever/CS/人工智能/llm/llm-reading-plan.md)
+      - NLP
+        - [概览](/Study_forever/CS/人工智能/nlp/index.md)
+        - [Transformer 笔记](/Study_forever/CS/人工智能/nlp/transformers-notes.md)
+  - [英语](/Study_forever/英语/index.md)
+  - [日语](/Study_forever/日语/index.md)
+  - [数学](/Study_forever/Math/index.md)
 - 日记
   - [概览](/diary/index.md)
   - [2026-03-10](/diary/2026-03-10.md)
