@@ -14,7 +14,7 @@
   `docsify serve docs`  
 默认会在 http://localhost:3000 预览
 - 提交到GitHub并同步<br>
-  `git add`  
+  `git add .`  
   `git commit -m "update notes"`  
   `git push`  
 注意事项：git push失败时可能git push 失败：Connection was reset
@@ -26,7 +26,7 @@
 ` git config --global https.proxy http://127.0.0.1:PORT`<br>
 注：具体端口查看代理APP的PORT，大部分代理端口号默认为7890
 
-或者使用SSH(暂定)
+或者使用SSH(暂定)，SSH是什么来着？
 
 ~~- 需要生成标签与双向链接时运行：`python scripts/generate_kb.py`~~
 
