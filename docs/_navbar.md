@@ -1,6 +1,6 @@
 - [首页](/README.md)
-- [1](/llm/index.md)
-- [2](/nlp/index.md)
+- [1](/Study_forever/CS/人工智能/llm/index.md)
+- [2](/Study_forever/CS/人工智能/nlp/index.md)
 - [3](/diary/index.md)
 - [4](/oldnotes/index.md)
 - [标签](/tags/index.md)

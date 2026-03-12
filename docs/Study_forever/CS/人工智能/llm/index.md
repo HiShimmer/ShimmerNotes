@@ -7,7 +7,6 @@
 Tags: llm
 <!-- backlinks:start -->
 ## Backlinks
-- [LLM](../../../../llm/index.md)
 - [LLM 学习路线](llm-reading-plan.md)
 - [人工智能](../index.md)
 <!-- backlinks:end -->

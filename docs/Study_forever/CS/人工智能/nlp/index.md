@@ -7,7 +7,6 @@
 Tags: nlp
 <!-- backlinks:start -->
 ## Backlinks
-- [NLP](../../../../nlp/index.md)
 - [Transformer 笔记](transformers-notes.md)
 - [人工智能](../index.md)
 <!-- backlinks:end -->

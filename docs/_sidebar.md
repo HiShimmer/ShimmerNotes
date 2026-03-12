@@ -8,6 +8,24 @@
       - NLP
         - [概览](/Study_forever/CS/人工智能/nlp/index.md)
         - [Transformer 笔记](/Study_forever/CS/人工智能/nlp/transformers-notes.md)
+      - 虚拟人格
+        - [概览](/Study_forever/CS/人工智能/虚拟人格/index.md)
+      - 对话系统
+        - [概览](/Study_forever/CS/人工智能/对话系统/index.md)
+      - 记忆与检索
+        - [概览](/Study_forever/CS/人工智能/记忆与检索/index.md)
+      - 情感计算
+        - [概览](/Study_forever/CS/人工智能/情感计算/index.md)
+      - 语音技术
+        - [概览](/Study_forever/CS/人工智能/语音技术/index.md)
+      - 多模态与形象驱动
+        - [概览](/Study_forever/CS/人工智能/多模态与形象驱动/index.md)
+      - 智能体与工具调用
+        - [概览](/Study_forever/CS/人工智能/智能体与工具调用/index.md)
+      - 评测与安全
+        - [概览](/Study_forever/CS/人工智能/评测与安全/index.md)
+      - 工程化与部署
+        - [概览](/Study_forever/CS/人工智能/工程化与部署/index.md)
   - [英语](/Study_forever/英语/index.md)
   - [日语](/Study_forever/日语/index.md)
   - [数学](/Study_forever/Math/index.md)
