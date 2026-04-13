@@ -6,8 +6,3 @@
 - [LLM 学习路线](../llm/llm-reading-plan.md)
 
 Tags: nlp, transformers
-<!-- backlinks:start -->
-## Backlinks
-- [LLM 学习路线](../llm/llm-reading-plan.md)
-- [NLP](index.md)
-<!-- backlinks:end -->

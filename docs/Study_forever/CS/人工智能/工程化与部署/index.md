@@ -7,7 +7,3 @@
 - 版本与灰度
 
 Tags: ops
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

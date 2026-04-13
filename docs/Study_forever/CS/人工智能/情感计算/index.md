@@ -7,7 +7,3 @@
 - 安全边界与缓和
 
 Tags: affect
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

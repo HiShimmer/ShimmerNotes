@@ -7,7 +7,3 @@
 - 监控与报警
 
 Tags: eval
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

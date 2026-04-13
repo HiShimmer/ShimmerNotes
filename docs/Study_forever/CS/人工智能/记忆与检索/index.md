@@ -7,7 +7,3 @@
 - 事实一致性与引用
 
 Tags: memory
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

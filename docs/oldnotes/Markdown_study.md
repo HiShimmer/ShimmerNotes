@@ -30,7 +30,3 @@ or use a backslash `\`.
 
 ---
 
-<!-- backlinks:start -->
-## Backlinks
-- [旧笔记](index.md)
-<!-- backlinks:end -->

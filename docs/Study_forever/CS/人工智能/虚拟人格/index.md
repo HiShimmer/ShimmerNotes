@@ -7,7 +7,3 @@
 - 个性一致性与可控性
 
 Tags: persona
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

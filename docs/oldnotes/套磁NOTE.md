@@ -63,7 +63,3 @@
 
 有的学校有ppt
 
-<!-- backlinks:start -->
-## Backlinks
-- [旧笔记](index.md)
-<!-- backlinks:end -->

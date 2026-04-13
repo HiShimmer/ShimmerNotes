@@ -7,7 +7,3 @@
 - 多模态对话融合
 
 Tags: multimodal
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

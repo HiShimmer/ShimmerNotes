@@ -10,8 +10,3 @@
 5. 结论与后续问题
 
 Tags: templates, workflow
-<!-- backlinks:start -->
-## Backlinks
-- [LLM 学习路线](../Study_forever/CS/人工智能/llm/llm-reading-plan.md)
-- [杂记](index.md)
-<!-- backlinks:end -->

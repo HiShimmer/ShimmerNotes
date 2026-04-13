@@ -40,11 +40,3 @@
 - [标签](tags/index.md)
 
 Tags: home
-<!-- backlinks:start -->
-## Backlinks
-- [LLM](llm/index.md)
-- [NLP](nlp/index.md)
-- [日记](diary/index.md)
-- [旧笔记](oldnotes/index.md)
-- [杂记](notes/index.md)
-<!-- backlinks:end -->

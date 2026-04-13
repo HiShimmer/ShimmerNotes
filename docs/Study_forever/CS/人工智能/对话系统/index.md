@@ -7,7 +7,3 @@
 - 失效恢复与降级
 
 Tags: dialogue
-<!-- backlinks:start -->
-## Backlinks
-- [人工智能](../index.md)
-<!-- backlinks:end -->

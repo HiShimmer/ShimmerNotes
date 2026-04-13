@@ -34,7 +34,3 @@
   * ### 3.23
     一觉睡到了十二点多 /(ㄒoㄒ)/~~
 
-<!-- backlinks:start -->
-## Backlinks
-- [旧笔记](index.md)
-<!-- backlinks:end -->
