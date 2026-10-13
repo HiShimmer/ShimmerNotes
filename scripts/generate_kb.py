@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import re
 from collections import defaultdict
 from pathlib import Path
@@ -8,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 TAGS_DIR = DOCS / "tags"
 
-EXCLUDE_DIRS = {"tags"}
+EXCLUDE_DIRS = {"tags", "KCGI"}
 EXCLUDE_FILES = {"_sidebar.md", "_navbar.md", "_coverpage.md"}
 
 TAG_LINE_RE = re.compile(r"^(Tags|标签)\s*:\s*(.+)$", re.IGNORECASE)

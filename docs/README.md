@@ -1,8 +1,8 @@
 # 介绍
-李宜航，Shimmer，リギコウ，你如阳光<br>
-日留水硕研一，种种原因于2026年3月10日开始创建个人网站。
+Shimmer<br>
+种种原因于2026年3月10日开始创建个人网站。
 
-本站点是个人（注意断句）搭建的知识库与笔记站点，主要Computer Science学习内容、日记与杂记。
+本站点是个人搭建的知识库与笔记站点，主要Computer Science学习内容、日记与杂记。
 
 内容以 Markdown 为源，使用 Docsify 渲染，Codex直接编码，作者稍作修改，让我们感谢artificial intelligence。
 
@@ -31,9 +31,7 @@
 ~~- 需要生成标签与双向链接时运行：`python scripts/generate_kb.py`~~
 
 ## 入口
-- [学习](Study_forever)
-- [LLM](llm/index.md)
-- [NLP](nlp/index.md)
+- [学习](Study_forever/index.md)
 - [日记](diary/index.md)
 - [杂记](notes/index.md)
 - [旧笔记](oldnotes/index.md)

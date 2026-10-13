@@ -3,3 +3,5 @@
 .DS_Store
 Thumbs.db
 *.log
+# KCGI 课程作业代码
+/docs/KCGI/

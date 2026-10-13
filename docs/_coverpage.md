@@ -1,17 +1,11 @@
-<!-- _coverpage.md -->
-
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# A Notes
 
 > 无论何时，我的朋友们，你们如阳光般温暖
-- 欢迎来到Shimmer（阳光☀）的Zone
 
-[//]: # (- 简单、轻便 &#40;压缩后 ~21kB&#41;)
+- 欢迎来到 Shimmer（阳光☀）的 Zone
+- 记录学习的新知识，分享生活的点滴
 
-[//]: # (- 无需生成 html 文件)
-
-[//]: # (- 众多主题)
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/README.md)
+[GitHub](https://github.com/HiShimmer/ShimmerNotes)
+[开始阅读](/README.md)
