@@ -28,13 +28,8 @@ Shimmer<br>
 
 或者使用SSH(暂定)，SSH是什么来着？
 
-~~- 需要生成标签与双向链接时运行：`python scripts/generate_kb.py`~~
-
 ## 入口
 - [学习](Study_forever/index.md)
 - [日记](diary/index.md)
 - [杂记](notes/index.md)
 - [旧笔记](oldnotes/index.md)
-- [标签](tags/index.md)
-
-Tags: home

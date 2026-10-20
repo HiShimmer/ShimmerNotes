@@ -4,5 +4,3 @@
 
 ## 关联笔记
 - [LLM 学习路线](../llm/llm-reading-plan.md)
-
-Tags: nlp, transformers

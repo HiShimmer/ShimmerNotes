@@ -6,5 +6,3 @@
 - [Calendar Todo](Calendar_Todo.md)
 - [定校](定校.md)
 - [套磁 NOTE](套磁NOTE.md)
-
-Tags: oldnotes

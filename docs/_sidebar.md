@@ -41,4 +41,3 @@
   - [Calendar Todo](/oldnotes/Calendar_Todo.md)
   - [定校](/oldnotes/定校.md)
   - [套磁 NOTE](/oldnotes/套磁NOTE.md)
-- [标签](/tags/index.md)

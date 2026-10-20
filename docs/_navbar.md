@@ -3,4 +3,3 @@
 - [日记](/diary/index.md)
 - [杂记](/notes/index.md)
 - [旧笔记](/oldnotes/index.md)
-- [标签](/tags/index.md)
