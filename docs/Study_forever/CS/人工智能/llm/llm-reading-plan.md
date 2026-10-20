@@ -4,4 +4,3 @@
 
 ## 关联笔记
 - [Transformer 笔记](../nlp/transformers-notes.md)
-- [笔记模板](../../../../notes/templates.md)

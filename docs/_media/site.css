@@ -52,6 +52,20 @@
 #site-greeting { color: #39796b; font-weight: 600; }
 #site-clock { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .site-timezone { font-size: 10px; letter-spacing: 0.08em; }
+.social-links { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 28px; }
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 12px;
+  border: 1px solid #e1e8e6;
+  border-radius: 8px;
+  background: #f8faf9;
+  font-size: 13px;
+  text-decoration: none;
+  color: #39796b;
+}
+.social-link[href]:hover { background: #e4f0eb; }
 @media (max-width: 768px) {
   :root { --sidebar-width: min(300px, 85vw); --content-margin-inline: 22px; }
   .app-nav { margin: 16px 60px 0 16px; }

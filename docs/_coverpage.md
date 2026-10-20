@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# A Notes
+# ShimmeRabbit‘s note
 
 > 无论何时，我的朋友们，你们如阳光般温暖
 
