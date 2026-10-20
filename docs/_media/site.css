@@ -1,0 +1,59 @@
+:root {
+  --theme-color: #39796b;
+  --color-text: #334155;
+  --content-max-width: 980px;
+  --sidebar-width: 300px;
+  --sidebar-bg: #f8fafb;
+  --sidebar-border-color: #e7ecef;
+  --sidebar-font-size: 14px;
+  --sidebar-link-spacing: 0.35em;
+  --sidebar-name-color: #243b42;
+  --sidebar-name-font-weight: 700;
+  --sidebar-name-margin: 24px 12px;
+  --border-radius: 8px;
+  --navbar-height: 5rem;
+}
+.sidebar { box-sizing: border-box; padding: 20px 18px 32px; }
+.sidebar .app-name { text-align: left; letter-spacing: -0.04em; }
+.sidebar .search { margin: 0 0 12px; padding: 0; border-bottom: 0; }
+.sidebar .search input { border: 1px solid #dde5e9; border-radius: 9px; background: #fff; }
+.sidebar-nav { padding: 0 4px; }
+.sidebar-nav ul { padding-left: 14px; }
+.sidebar-nav > ul { padding-left: 0; }
+.sidebar-nav li { margin: 3px 0; }
+.sidebar-nav li > a,
+.sidebar-nav li > p {
+  display: block;
+  padding: 6px 10px;
+  margin: 0;
+  border-radius: 7px;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+.sidebar-nav li > a:hover,
+.sidebar-nav li.folder > p:hover { background: #edf2f4; }
+.sidebar .sidebar-nav li.active > a { background: #e4f0eb; color: #286553; font-weight: 600; }
+.sidebar-nav li.folder > p { cursor: pointer; font-weight: 600; }
+.sidebar-nav li.folder > a::after,
+.sidebar-nav li.folder > p::after { content: '›'; float: right; margin-left: 4px; color: #8b9ba5; }
+.sidebar-nav li.folder.open > a::after,
+.sidebar-nav li.folder.open > p::after { transform: rotate(90deg); }
+.sidebar-nav > ul > li { margin-bottom: 8px; }
+.app-nav { margin: 20px 84px 0 20px; }
+.site-welcome {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px 16px;
+  font-size: 13px;
+  color: #73818d;
+}
+#site-greeting { color: #39796b; font-weight: 600; }
+#site-clock { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.site-timezone { font-size: 10px; letter-spacing: 0.08em; }
+@media (max-width: 768px) {
+  :root { --sidebar-width: min(300px, 85vw); --content-margin-inline: 22px; }
+  .app-nav { margin: 16px 60px 0 16px; }
+  .site-welcome { gap: 4px 10px; font-size: 11px; }
+}

@@ -1,5 +1,5 @@
-- [首页](/README.md)
-- [学习](/Study_forever/index.md)
-- [日记](/diary/index.md)
-- [杂记](/notes/index.md)
-- [旧笔记](/oldnotes/index.md)
+<div class="site-welcome" aria-label="问候与日本时间">
+  <span id="site-greeting">Hi, Shimmer</span>
+  <time id="site-clock" aria-label="日本标准时间"></time>
+  <span class="site-timezone">JST</span>
+</div>

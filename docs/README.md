@@ -27,9 +27,3 @@ Shimmer<br>
 注：具体端口查看代理APP的PORT，大部分代理端口号默认为7890
 
 或者使用SSH(暂定)，SSH是什么来着？
-
-## 入口
-- [学习](Study_forever/index.md)
-- [日记](diary/index.md)
-- [杂记](notes/index.md)
-- [旧笔记](oldnotes/index.md)
